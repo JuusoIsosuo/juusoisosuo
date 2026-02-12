@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Juuso, I'm currently doing my master's in Tuni, focusing on information security but have a background in software development.
+
+- I'm currently developing my skills and bettering my understanding in front-end and the integration of LLMs
+
+- Most of my projects have been school projects, where I have done various tasks from UI-desing to server-side logic.
+
 <!--
 **JuusoIsosuo/juusoisosuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
